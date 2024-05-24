@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2gussain&label=Profile%20views&color=0e75b6&style=flat" alt="b2gussain" /> </p>
 
+
+- 👨‍💻 Fourth-year BTech student passionate about software development and technology.
+- 🎓 Majoring in Computer science at Kurukshetra University.
+- 💡 Interested in exploring various domains including web development.
+- 🌟 Actively seeking internships and projects to apply and enhance my skills.
+- 🔧 Proficient in languages and technologies such as JavaScript, HTML/CSS, and Git.
+- 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community.
+- 📫 Let's connect! Feel free to reach out to me via email or LinkedIn.
 - 👨‍💻 All of my projects are available at [https://bittugussainportfolio.netlify.app/](https://bittugussainportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>

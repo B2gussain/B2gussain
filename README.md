@@ -11,7 +11,7 @@
 - 🔧 Proficient in languages and technologies such as JavaScript, HTML/CSS, and Git.
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community.
 - 📫 Let's connect! Feel free to reach out to me via email or LinkedIn.
-- 👨‍💻 All of my projects are available at [https://bittugussainportfolio.netlify.app/](https://bittugussainportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bittugussainportfolio.netlify.app/](https://bittu-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

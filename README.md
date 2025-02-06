@@ -8,7 +8,7 @@
 - 🎓 Majoring in Computer science at Kurukshetra University.
 - 💡 Interested in exploring various domains including web development.
 - 🌟 Actively seeking internships and projects to apply and enhance my skills.
-- 🔧 Proficient in languages and technologies such as JavaScript, HTML/CSS, and Git.
+- 🔧 Proficient in languages and technologies such as JavaScript, HTML/CSS,MERN Stack and Git.
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community.
 - 📫 Let's connect! Feel free to reach out to me via email or LinkedIn.
 - 👨‍💻 All of my projects are available at [https://bittugussainportfolio.netlify.app/](https://bittu-portfolio.netlify.app)

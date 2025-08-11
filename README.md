@@ -8,10 +8,10 @@
 - 🎓 BTech Graduate in Computer Science from Kurukshetra University.  
 - 💻 Passionate about software development and technology.  
 - 🌐 Currently learning **WordPress** to expand my web development skillset.  
-- 💡 Interested in web development and MERN stack.  
+- 💡 Interested in **web development** and **MERN stack**.  
 - 🔧 Proficient in JavaScript, HTML/CSS, MERN Stack, Git, and basic C/C++.  
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community.  
-- 📫 Reach me via email or LinkedIn.  
+- 📫 Reach me via **email** or **LinkedIn**.  
 - 🌟 Portfolio: [bittu-portfolio.netlify.app](https://bittu-portfolio.netlify.app)  
 
 <h3 align="left">Connect with me:</h3>
@@ -55,6 +55,19 @@
 </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
+</a>
+<!-- MERN Stack Icons -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
 </a>
 </p>
 

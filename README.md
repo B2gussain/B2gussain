@@ -12,7 +12,7 @@
 - 🔧 Proficient in JavaScript, HTML/CSS, MERN Stack, Git, and basic C/C++.  
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community.  
 - 📫 Reach me via **email** or **LinkedIn**.  
-- 🌟 Portfolio: [bittu-portfolio.netlify.app](https://bittu-portfolio.netlify.app)  
+- 🌟 Portfolio: [https://bittug-portfolio.netlify.app/](https://bittug-portfolio.netlify.app/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

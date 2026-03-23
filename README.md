@@ -10,12 +10,12 @@
 - 🌐 Passionate about **Web Development** and **MERN Stack**  
 - 🔧 Proficient in **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, MongoDB, Git, TanStack Query**, and basics of C/C++ & Java  
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community  
-- 📫 Reach me via **[Email](mailto:bittugussainl@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/bittu-gussain-708435297/)**  
+- 📫 Reach me via **[Email](mailto:bittugussainl@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/bittu-gussain/)**  
 - 🌟 Portfolio: [https://b2-portfolio.vercel.app/](https://b2-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bittu-gussain-708435297/" target="_blank">
+  <a href="https://www.linkedin.com/in/bittu-gussain/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/heyy.b2" target="_blank">

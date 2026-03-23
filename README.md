@@ -11,7 +11,7 @@
 - 🔧 Proficient in **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, MongoDB, Git, TanStack Query**, and basics of C/C++ & Java  
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community  
 - 📫 Reach me via **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://www.linkedin.com/in/bittu-gussain-708435297/)**  
-- 🌟 Portfolio: [https://bittug-portfolio.netlify.app/](https://bittug-portfolio.netlify.app/)
+- 🌟 Portfolio: [https://b2-portfolio.vercel.app/](https://b2-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bittu</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b2gussain&label=Profile%20views&color=0e75b6&style=flat" alt="b2gussain" /> 
 </p>
 
 - 🎓 BTech Graduate in Computer Science from Kurukshetra University  
-- 💻 Currently working as a **Front-End Developer** at **Prabhu Bhakti Pvt Ltd**  
+- 💻 Currently working as a **Full-Stack Developer** at **Prabhu Bhakti Pvt Ltd**  
 - 🌐 Passionate about **Web Development** and **MERN Stack**  
 - 🔧 Proficient in **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, MongoDB, Git, TanStack Query**, and basics of C/C++ & Java  
 - 🚀 Open to collaboration on exciting projects and eager to contribute to the tech community  
